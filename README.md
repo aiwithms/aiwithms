@@ -109,49 +109,26 @@ For industrial services, case studies, and RFQs:
 - **[Public research and evidence map](https://manish-sharma-ai.github.io/evidence/)**
 - **[Core LMD and AI sources](https://manish-sharma-ai.github.io/research/core-lmd-ai-sources/)**
 
-<!--
-Add verified publications only.
-
-- [{{PUBLICATION_1_TITLE}}]({{PUBLICATION_1_URL}})
-- [{{PUBLICATION_2_TITLE}}]({{PUBLICATION_2_URL}})
-- [{{PUBLICATION_3_TITLE}}]({{PUBLICATION_3_URL}})
--->
+Verified publications belong here only when the title and public URL are confirmed.
 
 ---
 
-## Technical toolkit
+## Public technical toolkit
 
-Replace this section with the technologies you can publicly support.
-
-**AI and data**
+**Publicly visible tooling**
 
 ```text
-Python · {{AI_FRAMEWORK_1}} · {{AI_FRAMEWORK_2}} ·
-{{COMPUTER_VISION_TOOL}} · {{DATA_TOOL}}
+Python · TypeScript · React · Astro · GitHub Actions
 ```
 
-**Industrial and engineering systems**
-
-```text
-{{ROBOTICS_TOOL}} · {{PROCESS_MONITORING_TOOL}} ·
-{{SIMULATION_TOOL}} · {{INDUSTRIAL_DATA_TOOL}}
-```
-
-**Web and public tools**
-
-```text
-TypeScript · React · Astro · GitHub Actions ·
-{{ADDITIONAL_WEB_TOOL}}
-```
-
-**Methods**
+**Publicly stated methods**
 
 ```text
 Machine learning · Computer vision · Process monitoring ·
 Decision support · Uncertainty-aware analysis · Engineering validation
 ```
 
-Delete any technology that you do not actively use or cannot publicly support.
+Specific industrial systems, datasets, or internal tools are listed only when they are public and safe to verify.
 
 ---
 
@@ -180,15 +157,7 @@ This profile intentionally excludes confidential employer information, customer 
 | Exafuse | [exafuse.de](https://www.exafuse.de/) |
 | GitHub organization | [github.com/manish-sharma-ai](https://github.com/manish-sharma-ai) |
 
-<!--
-Activate these only when the URLs are verified and the profiles contain real work.
-
-| ORCID | [ORCID]({{ORCID_URL}}) |
-| Zenodo | [Zenodo]({{ZENODO_URL}}) |
-| Hugging Face | [Hugging Face]({{HUGGINGFACE_URL}}) |
-| ResearchGate | [ResearchGate]({{RESEARCHGATE_URL}}) |
-| YouTube | [YouTube]({{YOUTUBE_URL}}) |
--->
+Planned research and artifact profiles are added only after the URLs are verified and contain real public work.
 
 ---
 
@@ -196,16 +165,11 @@ Activate these only when the URLs are verified and the profiles contain real wor
 
 Pin the most important repositories on the GitHub profile.
 
-Recommended order:
+Recommended first pin:
 
 1. [`manish-sharma-ai.github.io`](https://github.com/manish-sharma-ai/manish-sharma-ai.github.io) — personal technical website
-2. `{{PUBLIC_TOOL_REPOSITORY}}` — a polished public industrial-AI or LMD tool
-3. `{{PUBLIC_FRAMEWORK_REPOSITORY}}` — a framework, schema, or research artifact
-4. `{{PUBLIC_DATASET_REPOSITORY}}` — a public-safe dataset or benchmark
-5. `{{PUBLIC_DEMO_REPOSITORY}}` — an interactive demonstration
-6. `{{ADDITIONAL_PUBLIC_REPOSITORY}}` — another completed public artifact
 
-Do not pin empty repositories, abandoned experiments, or private-project placeholders.
+Additional repositories should be pinned only when they contain complete, public-safe artifacts.
 
 ---
 
@@ -217,11 +181,7 @@ For professional discussions:
 - **Public technical work:** [Manish Sharma Lab](https://manish-sharma-ai.github.io)
 - **Industrial LMD/DED services:** [Exafuse](https://www.exafuse.de/)
 
-<!--
-Optional public email:
-
-- **Email:** [{{PUBLIC_EMAIL}}](mailto:{{PUBLIC_EMAIL}})
--->
+No public email is listed here until one is explicitly approved.
 
 ---
 
