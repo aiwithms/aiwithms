@@ -20,7 +20,7 @@ Industrial AI for decisions you can verify.
 
 ## Links
 
-- Website
-- LinkedIn
-- Exafuse
-- Google Scholar
+- Website - https://manish-sharma-ai.github.io/
+- LinkedIn - https://www.linkedin.com/in/manishsharma5/
+- Exafuse - https://www.exafuse.de/
+#TODO - add all here
