@@ -128,3 +128,104 @@ Replace this section with the technologies you can publicly support.
 ```text
 Python · {{AI_FRAMEWORK_1}} · {{AI_FRAMEWORK_2}} ·
 {{COMPUTER_VISION_TOOL}} · {{DATA_TOOL}}
+```
+
+**Industrial and engineering systems**
+
+```text
+{{ROBOTICS_TOOL}} · {{PROCESS_MONITORING_TOOL}} ·
+{{SIMULATION_TOOL}} · {{INDUSTRIAL_DATA_TOOL}}
+```
+
+**Web and public tools**
+
+```text
+TypeScript · React · Astro · GitHub Actions ·
+{{ADDITIONAL_WEB_TOOL}}
+```
+
+**Methods**
+
+```text
+Machine learning · Computer vision · Process monitoring ·
+Decision support · Uncertainty-aware analysis · Engineering validation
+```
+
+Delete any technology that you do not actively use or cannot publicly support.
+
+---
+
+## Current public focus
+
+I am currently improving and publishing public-safe work around:
+
+- Inspection-aware industrial AI
+- LMD/DED process-monitoring frameworks
+- Engineering decision-support tools
+- AI-readable technical schemas and resources
+- Public research and evidence maps
+- Reproducible technical communication
+
+This profile intentionally excludes confidential employer information, customer information, unpublished products, and private business projects.
+
+---
+
+## Public profiles
+
+| Platform | Link |
+|---|---|
+| Personal website | [manish-sharma-ai.github.io](https://manish-sharma-ai.github.io) |
+| LinkedIn | [linkedin.com/in/manishsharma5](https://www.linkedin.com/in/manishsharma5/) |
+| Google Scholar | [Scholar profile](https://scholar.google.com/citations?hl=en&user=-F9cDT0AAAAJ) |
+| Exafuse | [exafuse.de](https://www.exafuse.de/) |
+| GitHub organization | [github.com/manish-sharma-ai](https://github.com/manish-sharma-ai) |
+
+<!--
+Activate these only when the URLs are verified and the profiles contain real work.
+
+| ORCID | [ORCID]({{ORCID_URL}}) |
+| Zenodo | [Zenodo]({{ZENODO_URL}}) |
+| Hugging Face | [Hugging Face]({{HUGGINGFACE_URL}}) |
+| ResearchGate | [ResearchGate]({{RESEARCHGATE_URL}}) |
+| YouTube | [YouTube]({{YOUTUBE_URL}}) |
+-->
+
+---
+
+## Selected repositories
+
+Pin the most important repositories on the GitHub profile.
+
+Recommended order:
+
+1. [`manish-sharma-ai.github.io`](https://github.com/manish-sharma-ai/manish-sharma-ai.github.io) — personal technical website
+2. `{{PUBLIC_TOOL_REPOSITORY}}` — a polished public industrial-AI or LMD tool
+3. `{{PUBLIC_FRAMEWORK_REPOSITORY}}` — a framework, schema, or research artifact
+4. `{{PUBLIC_DATASET_REPOSITORY}}` — a public-safe dataset or benchmark
+5. `{{PUBLIC_DEMO_REPOSITORY}}` — an interactive demonstration
+6. `{{ADDITIONAL_PUBLIC_REPOSITORY}}` — another completed public artifact
+
+Do not pin empty repositories, abandoned experiments, or private-project placeholders.
+
+---
+
+## Contact
+
+For professional discussions:
+
+- **LinkedIn:** [Manish Sharma](https://www.linkedin.com/in/manishsharma5/)
+- **Public technical work:** [Manish Sharma Lab](https://manish-sharma-ai.github.io)
+- **Industrial LMD/DED services:** [Exafuse](https://www.exafuse.de/)
+
+<!--
+Optional public email:
+
+- **Email:** [{{PUBLIC_EMAIL}}](mailto:{{PUBLIC_EMAIL}})
+-->
+
+---
+
+<sub>
+This profile contains public educational and professional information.  
+It does not provide engineering approval, material certification, a quality guarantee, or disclosure of confidential work.
+</sub>
